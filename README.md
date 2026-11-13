@@ -10,7 +10,7 @@
 
 解压后阅读 `开始阅读.html`，并直接把教程包和下面两个工具一起丢给 AI。
 
-- 下载：[Celeste_像素皮肤教程包_v1.9.13.zip](Celeste_像素皮肤教程包_v1.9.13.zip)
+- 下载：[Celeste_像素皮肤教程包_v1.9.14.zip](Celeste_像素皮肤教程包_v1.9.14.zip)
 
 ## 2. 动作对照工具
 
@@ -20,6 +20,6 @@
 
 ## 3. 游戏内测试地图
 
-在游戏里检查皮肤的动作和配色。不用解压，直接把 ZIP 放进 `Celeste/Mods/`（前置需要 Everest 和 LuaCutscenes）。
+在游戏里检查皮肤的动作和配色。不用解压，直接把 ZIP 放进 `Celeste/Mods/`（前置需要 Everest 1.6642.0 或更新版本，以及 LuaCutscenes 0.2.13）。
 
-- 下载：[SkinPracticeLab_v1.5.5.zip](SkinPracticeLab_v1.5.5.zip)
+- 下载：[SkinPracticeLab_v1.5.7.zip](SkinPracticeLab_v1.5.7.zip)
